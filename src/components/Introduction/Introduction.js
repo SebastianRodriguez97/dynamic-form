@@ -14,8 +14,8 @@ export default function Introduction() {
                             </span>
                         </h1>
                         <h4 className="d-flex container-actions mt-5">
-                            Hi, I'm Bryan Heredia. I'm 23 years old and i like to make programs and
-                            develop it with JS and Phyton. I like play videogames and play tennis.
+                            Hi, I'm Sebastián Rodríguez. I'm 25 years old and i like to make programs and
+                            develop it with JS and .NET. I like listening to music.
                         </h4>
                         <div className="d-flex container-actions mt-5">
                             <div className="container-buttons">
